@@ -20,7 +20,7 @@ print the characters and its huffmancode
 ## Program:
 ### Get the input String
 ```python
-string = 'DHONI'
+string = 'Yuvabharathi'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -74,6 +74,7 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![Screenshot 2024-11-16 194722](https://github.com/user-attachments/assets/cd2b1be9-c50b-4888-afc1-e6b76108c666)
+![Screenshot 2024-11-16 224829](https://github.com/user-attachments/assets/62ec2831-31e7-45d8-8e53-a71df0e84deb)
+
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
